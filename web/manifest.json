@@ -1,0 +1,35 @@
+{
+    "name": "Thư viện sách điện tử",
+    "short_name": "Thư viện sách",
+    "start_url": ".",
+    "display": "standalone",
+    "background_color": "#f6f8fa",
+    "theme_color": "#009688",
+    "description": "Demo danh sách, lưới dữ liệu và cuộn trong Flutter.",
+    "orientation": "any",
+    "prefer_related_applications": false,
+    "icons": [
+        {
+            "src": "icons/Icon-192.png",
+            "sizes": "192x192",
+            "type": "image/png"
+        },
+        {
+            "src": "icons/Icon-512.png",
+            "sizes": "512x512",
+            "type": "image/png"
+        },
+        {
+            "src": "icons/Icon-maskable-192.png",
+            "sizes": "192x192",
+            "type": "image/png",
+            "purpose": "maskable"
+        },
+        {
+            "src": "icons/Icon-maskable-512.png",
+            "sizes": "512x512",
+            "type": "image/png",
+            "purpose": "maskable"
+        }
+    ]
+}
